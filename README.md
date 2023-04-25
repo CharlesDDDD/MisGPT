@@ -1,1 +1,2 @@
-# This project is to fight against misinformation using LLMs
+# MisGPT 
+This project is to fight against misinformation using LLMs
